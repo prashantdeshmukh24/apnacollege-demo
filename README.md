@@ -1,2 +1,2 @@
 # apnacollege-demo
-this is my Apna College demo Repository
+This is My Apna College Demo Repository
